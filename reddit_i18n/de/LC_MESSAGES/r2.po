@@ -3495,13 +3495,13 @@ msgstr[1] "Tagen"
 msgid "month"
 msgid_plural "months"
 msgstr[0] "Monat"
-msgstr[1] "Monate"
+msgstr[1] "Monaten"
 
 #: r2/lib/strings.py:278 r2/templates/goldpayment.html:196
 msgid "year"
 msgid_plural "years"
 msgstr[0] "Jahr"
-msgstr[1] "Jahre"
+msgstr[1] "Jahren"
 
 #: r2/lib/system_messages.py:35
 msgid "you are a moderator"
